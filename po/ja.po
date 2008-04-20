@@ -547,7 +547,7 @@ msgstr "主な割り込み発生要因:\n"
 #: urbnum.c:123
 #, c-format
 msgid "USB device %4s : %s (%s)"
-msgstr "USBデバイス %4秒 : %s (%s)"
+msgstr "USBデバイス %4s : %s (%s)"
 
 #: powertop.c:676
 #, c-format

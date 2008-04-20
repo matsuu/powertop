@@ -177,7 +177,7 @@ msgstr "C0 (CPU動作状態)        (%4.1f%%)\n"
 #: powertop.c:805
 #, c-format
 msgid "Cn\t          Avg residency\n"
-msgstr "Cn\t           平均滞在時間\n"
+msgstr "Cステイト\t  平均滞在時間\n"
 
 #: powertop.c:743
 #, c-format
